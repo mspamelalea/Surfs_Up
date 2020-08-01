@@ -32,18 +32,18 @@ We can infer from this that Hawaii has terrific year-round weather.
 ## Resources
 Data Sources:
 
-Hawaii.sqlite - weather database
+- Hawaii.sqlite - weather database
 
 Software:
 
-Pyton 3.7.6
-Jupyter Notebook 6.0.3
-Pandas 1.0.1
-Numpy 1.18.1
-sqlalchemy 1.3.18
-SQLite
-Flask
-VS Code
+- Pyton 3.7.6
+- Jupyter Notebook 6.0.3
+- Pandas 1.0.1
+- Numpy 1.18.1
+- sqlalchemy 1.3.18
+- SQLite
+- Flask
+- VS Code
 
 ## Recommendations and Next Steps
 
