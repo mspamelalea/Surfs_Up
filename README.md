@@ -2,7 +2,7 @@
 
 ## Background and Results
 W. Avy and another investor are interesed in financially supporting the opening of 
-a surf and ice cream shop on the island of Oahu.  They have as for information 
+a surf and ice cream shop on the island of Oahu.  They have asked for information 
 concerning weather data and stations from around the Hawaiian islands.
 
 ### Purpose
@@ -27,8 +27,23 @@ these two months are minimal.
 
 We can infer from this that Hawaii has terrific year-round weather.
 
-![Jun_Dec_statistics.PNG](attachment:Jun_Dec_statistics.PNG)
+![](Jun_Dec_statistics.PNG)
 
+## Resources
+Data Sources:
+
+Hawaii.sqlite - weather database
+
+Software:
+
+Pyton 3.7.6
+Jupyter Notebook 6.0.3
+Pandas 1.0.1
+Numpy 1.18.1
+sqlalchemy 1.3.18
+SQLite
+Flask
+VS Code
 
 ## Recommendations and Next Steps
 
